@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a student <br>
+<ul>
+    <li>👋 Hi, I'am Nandan Reddy K S</li>
+    <li>👨‍🎓 I am CS-DS undergraduate</li>
+    <li>🧑‍💻 Instrested in Web-Developement</li>
+    <li>💻 Currently learning Javascript</li>
+</ul>
 
 
 ## 🌐 Socials:
