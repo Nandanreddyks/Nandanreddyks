@@ -3,7 +3,7 @@ I am a student <br>
 
 
 ## 🌐 Socials:
-<a href="[https://linkedin.com/in/Nandan%20Reddy%20K](https://www.linkedin.com/in/nandan-reddy-k-6a96a7295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+<a href="https://www.linkedin.com/in/nandan-reddy-k-6a96a7295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
