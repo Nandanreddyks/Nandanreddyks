@@ -2,8 +2,8 @@
 <ul>
     <li>👋 Hi, I'am Nandan Reddy K S</li>
     <li>👨‍🎓 I am CS-DS undergraduate</li>
-    <li>🧑‍💻 Instrested in Web-Developement</li>
-    <li>💻 Currently learning Javascript</li>
+    <li>🧑‍💻 Aspiring data scientist</li>
+  
 </ul>
 
 
