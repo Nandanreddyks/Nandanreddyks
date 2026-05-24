@@ -13,7 +13,7 @@ Email Me 👉 ✉️ nandanreddyks45@gmail.com For Collaboration/Project or Anyt
 
 💬 Ask me about: Collaboration, Tech Support
 
-📫 How to reach me: cakhileshkumar123@gmail.com
+📫 How to reach me: nandanreddyks45@gmail.com
 
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
